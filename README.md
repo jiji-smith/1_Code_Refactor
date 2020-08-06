@@ -37,4 +37,4 @@ Fixed the tag in HTML, add and edit CSS mostly.
 Through the homework, I understand CSS functions and containers better.
 
 ## Link
-> https://jiji-smith.github.io/HW1_Code_Refactor/
+> https://jiji-smith.github.io/1_Code_Refactor/
